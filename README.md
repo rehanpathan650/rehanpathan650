@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Rehan Pathan
 
-🚀 **Software Developer @ Vithi IT ** | MERN Stack | Blockchain & AI Enthusiast
+🚀 **Software Developer @ Vithi IT** | MERN Stack | Blockchain & AI Enthusiast
 
 ---
 
