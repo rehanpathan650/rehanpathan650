@@ -42,7 +42,7 @@ I’m a passionate **Full Stack Developer** with a strong focus on **MERN stack 
 
 ### 🏆 Achievements
 
-* 🎯 Cracked **Hexaware** (declined offer due to 3-year bond)
+* 🎯 Cracked **Hexaware**
 * 🏅 Achieved **Rank 2699** in Meta Hacker Cup 2023 (Round 1)
 * 💻 Solved **200+ DSA problems** across LeetCode, Codeforces, GFG & CodeChef
 * 🎉 Contributed to **Hacktoberfest 2022** with open-source PRs
